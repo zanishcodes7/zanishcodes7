@@ -39,4 +39,4 @@ ML, and open-source contribution.*
 
 ### 📊 GitHub Stats
 
-![zanishcodes7's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanishcodes7&show_icons=true&theme=radical)
+![zanishcodes7's GitHub stats](https://github-readme-stats-lemon-tau-86.vercel.app/api?username=zanishcodes7&show_icons=true&theme=radical)
