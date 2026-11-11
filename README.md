@@ -61,8 +61,16 @@ A content-based recommendation engine using TF-IDF and cosine similarity on the 
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://YOUR-VERCEL-URL.vercel.app/api?username=zanishcodes7&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" alt="Top Languages" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=zanishcodes7&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/github/followers/zanishcodes7?style=for-the-badge&logo=github&label=Followers&color=A78BFA&labelColor=1e1e2e" alt="Followers" />
+<img src="https://img.shields.io/badge/Profile%20Views-Live-A78BFA?style=for-the-badge&logo=github&labelColor=1e1e2e" alt="Profile views" />
+<img src="https://img.shields.io/github/stars/zanishcodes7/Text-Classifier-Engine?style=for-the-badge&logo=github&label=Stars&color=A78BFA&labelColor=1e1e2e" alt="Stars" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-A78BFA?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Jupyter-A78BFA?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/SQL-A78BFA?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/JavaScript-A78BFA?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 
 </div>
 
