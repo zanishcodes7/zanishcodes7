@@ -44,8 +44,8 @@ I'm a BS Data Science student building toward a career as a **data scientist for
 ### 🚀 Featured Projects
 
 **[Text Classifier Engine](https://github.com/zanishcodes7/Text-Classifier-Engine)**
-A cascading 3-tier engine: regex rules, then TF-IDF with Logistic Regression, then an LLM fallback, with a live web UI.
-`Python` `TF-IDF` `Logistic Regression` `Flask`
+A hybrid text classification engine: regex rules, then a TF-IDF + Logistic Regression model, then an LLM fallback, served through a live web UI.
+`Python` `Machine Learning` `NLP` `scikit-learn` `Flask`
 
 **[NASA Asteroid Hazard Analysis](https://github.com/zanishcodes7/nasa-asteroid-hazard-analysis)**
 Statistical analysis of NASA near-Earth asteroid data, comparing hazardous vs. non-hazardous asteroids with a Welch's t-test, shown in an interactive Flask + Chart.js dashboard.
@@ -61,8 +61,8 @@ A content-based recommendation engine using TF-IDF and cosine similarity on the 
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zanishcodes7&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanishcodes7&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" alt="GitHub Stats" src="https://YOUR-VERCEL-URL.vercel.app/api?username=zanishcodes7&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" alt="Top Languages" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=zanishcodes7&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
