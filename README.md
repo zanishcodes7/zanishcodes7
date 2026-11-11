@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Zanish+👋;Data+Science+Student+@+NUML;Turning+messy+data+into+decisions;Aspiring+Data+Scientist+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Zanish;Data+Science+Student+%40+NUML;Turning+messy+data+into+decisions;Aspiring+Data+Scientist" alt="Typing SVG" />
 
 **BS Data Science @ NUML · Rawalpindi, Pakistan**
 
