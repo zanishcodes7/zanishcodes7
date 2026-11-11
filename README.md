@@ -1,47 +1,73 @@
-### Hi, I'm Zanish 👋
+<div align="center">
 
-BS Data Science student at NUML, building toward a career as a data 
-scientist for remote roles. I like turning raw, messy data into 
-something you can actually make a decision from — and being honest 
-about what the data can't tell you, too.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Zanish+👋;Data+Science+Student+@+NUML;Turning+messy+data+into+decisions;Aspiring+Data+Scientist+🚀" alt="Typing SVG" />
 
-- 🎓 BS Data Science @ NUML (National University of Modern Languages)
-- 💼 ~8-9 months as an Odoo Developer (Python/Flask, ERP addons) before pivoting toward data science
-- 🌱 Currently learning: DSA in C++, backend development, and building out a 5-project data science portfolio
-- 📫 Reach me via [LinkedIn] https://www.linkedin.com/in/zanish-rohail
+**BS Data Science @ NUML · Rawalpindi, Pakistan**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanish-rohail)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zanishcodes7)
+
+</div>
+
+---
+
+### 🧠 About Me
+
+I'm a BS Data Science student building toward a career as a **data scientist for remote roles**. I like turning raw, messy data into something you can actually make a decision from, and being honest about what the data can't tell you.
+
+- 💼 ~1 year as an **Odoo Developer** (Python/Flask, ERP addons) before pivoting to data science
+- 🔭 Currently learning **DSA in C++** and **backend development**
+- 🌱 Building a **5-project data science portfolio**
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+</p>
 
 ---
 
 ### 🚀 Featured Projects
+
 **[Text Classifier Engine](https://github.com/zanishcodes7/Text-Classifier-Engine)**
-A cascading 3-tier text classification engine that routes queries through
-regex rules, then TF-IDF with Logistic Regression, then an LLM fallback,
-with a live web UI and real-time metrics.
+A cascading 3-tier engine: regex rules, then TF-IDF with Logistic Regression, then an LLM fallback, with a live web UI.
 `Python` `TF-IDF` `Logistic Regression` `Flask`
 
 **[NASA Asteroid Hazard Analysis](https://github.com/zanishcodes7/nasa-asteroid-hazard-analysis)**
-Statistical analysis of NASA near-Earth asteroid data — comparing sizes 
-of hazardous vs. non-hazardous asteroids with a Welch's t-test, 
-visualized in an interactive Flask + Chart.js dashboard.
+Statistical analysis of NASA near-Earth asteroid data, comparing hazardous vs. non-hazardous asteroids with a Welch's t-test, shown in an interactive Flask + Chart.js dashboard.
 `Python` `pandas` `scipy` `Flask` `Chart.js`
 
 **[Movie Recommender (TF-IDF)](https://github.com/zanishcodes7/movie-recommender-tfidf)**
-A content-based movie recommendation engine using TF-IDF vectorization 
-and cosine similarity on the TMDB 5000 dataset, with a live 
-autocomplete search dashboard.
-`Python` `scikit-learn` `pandas` `Flask`
-
-*More projects in progress — building 5 total, covering real-world data, 
-ML, and open-source contribution.*
-
----
-
-### 🛠️ Tech I Work With
-
-`Python` `SQL` `Flask` `pandas` `scikit-learn` `HTML/CSS` `JavaScript` `Git`
+A content-based recommendation engine using TF-IDF and cosine similarity on the TMDB 5000 dataset.
+`Python` `scikit-learn` `pandas`
 
 ---
 
 ### 📊 GitHub Stats
 
-![zanishcodes7's GitHub stats](https://github-readme-stats-lemon-tau-86.vercel.app/api?username=zanishcodes7&show_icons=true&theme=radical)
+<div align="center">
+
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zanishcodes7&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanishcodes7&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/zanish-rohail) · [Email](mailto:) 
+
+*"Data is only useful when it leads to a decision."*
+
+</div>
