@@ -13,6 +13,11 @@ about what the data can't tell you, too.
 ---
 
 ### 🚀 Featured Projects
+**[Text Classifier Engine](https://github.com/zanishcodes7/Text-Classifier-Engine)**
+A cascading 3-tier text classification engine that routes queries through
+regex rules, then TF-IDF with Logistic Regression, then an LLM fallback,
+with a live web UI and real-time metrics.
+`Python` `TF-IDF` `Logistic Regression` `Flask`
 
 **[NASA Asteroid Hazard Analysis](https://github.com/zanishcodes7/nasa-asteroid-hazard-analysis)**
 Statistical analysis of NASA near-Earth asteroid data — comparing sizes 
