@@ -1,9 +1,15 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Zanish;Data+Science+Student+%40+NUML;Turning+messy+data+into+decisions;Aspiring+Data+Scientist" alt="Typing SVG" />
+<div align="center">
 
-**BS Data Science @ NUML · Rawalpindi, Pakistan**
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=60&lines=Hi,+I%27m+Zanish+Rohail;Aspiring+Data+Scientist;Turning+raw+data+into+clear+decisions;Building+real-world+data+projects" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanish-rohail)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zanishcodes7)
+<br/>
+
+**Aspiring Data Scientist · Rawalpindi, Pakistan**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanish-rohail)
+[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zanishcodes7)
 
 </div>
 
