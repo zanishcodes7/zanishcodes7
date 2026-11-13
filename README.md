@@ -24,47 +24,55 @@ I'm a data science student who turns messy, real-world data into decisions. Befo
 
 ### 02 · Stack
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+<div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql,flask,pandas,sklearn,postgres,git,docker,flutter,odoo&theme=dark&perline=12" alt="Tech icons" />
 
-Python · SQL<br>C++ · JavaScript<br>Dart (Flutter, learning)
+</div>
 
-</td>
-<td align="center" width="33%">
+<br/>
 
-**Data & ML**
+<details>
+<summary><b>01 · Languages</b> &nbsp;·&nbsp; click to expand</summary>
 
-Pandas · NumPy<br>Scikit-learn · TF-IDF<br>Statistics · NLP
+- **Python**: data analysis, ML, and backend work
+- **SQL**: querying and data modelling
+- **C++**: data structures and algorithms (current study)
+- **JavaScript**: front-end work for Flask apps
+- **Dart**: Flutter fitness app (learning)
 
-</td>
-<td align="center" width="33%">
+</details>
 
-**Web & Tools**
+<details>
+<summary><b>02 · Data & ML</b> &nbsp;·&nbsp; click to expand</summary>
 
-Flask · Odoo ORM<br>PostgreSQL · Git<br>Docker (learning)
+- **Pandas and NumPy** for cleaning and analysis
+- **Scikit-learn** for Logistic Regression and TF-IDF models
+- **Statistics**: Welch's t-test and hypothesis testing
+- **NLP**: text classification and vectorization
 
-</td>
-</tr>
-</table>
+</details>
+
+<details>
+<summary><b>03 · Web & Tools</b> &nbsp;·&nbsp; click to expand</summary>
+
+- **Flask** web apps with Chart.js dashboards
+- **Odoo ORM** for ERP modules and custom reports
+- **PostgreSQL** for relational data
+- **Git and GitHub** for version control
+- **Docker** (learning)
+
+</details>
+
+<br/>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF7F66?style=for-the-badge&labelColor=06191D)](https://zanishcodes7.github.io)
+
+</div>
 
 ---
-
-### 03 · Featured Work
-
-**[Text Classifier Engine](https://github.com/zanishcodes7/Text-Classifier-Engine)**
-A hybrid classifier that routes queries through regex rules, a TF-IDF and Logistic Regression model, and an LLM fallback, served through a Flask web UI.
-
-**[NASA Asteroid Hazard Analysis](https://github.com/zanishcodes7/nasa-asteroid-hazard-analysis)**
-Welch's t-test on near-Earth asteroid data, shown in an interactive Flask and Chart.js dashboard.
-
-**[Movie Recommender (TF-IDF)](https://github.com/zanishcodes7/movie-recommender-tfidf)**
-Content-based recommendations using TF-IDF and cosine similarity on the TMDB 5000 dataset.
-
----
-
 ### 04 · Contribution Snake
 
 <picture>
