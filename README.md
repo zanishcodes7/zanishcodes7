@@ -1,54 +1,93 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zanishcodes7&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <p><em>Data Scientist & Python Backend Engineer specializing in scalable pipelines, ML inference, and relational databases.</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:5C1028,100:8B1E3F&height=220&section=header&text=Zanish%20Rohail&fontSize=72&fontColor=F5E6EA&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%26%20Machine%20Learning&descAlignY=62&descSize=22&descColor=E8B4C0" width="100%" alt="Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1200&color=E8B4C0&center=true&vCenter=true&width=700&lines=Numbers%2C+on+the+record.;Data+science%2C+one+project+at+a+time.;Building+since+2025." alt="Typing header" />
+
+<sub>NUML · Rawalpindi, Pakistan · Open to remote roles</sub>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B1E3F?style=for-the-badge&logo=linkedin&logoColor=F5E6EA&labelColor=0D0D0D)](https://www.linkedin.com/in/zanish-rohail)
+[![GitHub](https://img.shields.io/badge/GitHub-8B1E3F?style=for-the-badge&logo=github&logoColor=F5E6EA&labelColor=0D0D0D)](https://github.com/zanishcodes7)
+[![Email](https://img.shields.io/badge/Email-8B1E3F?style=for-the-badge&logo=gmail&logoColor=F5E6EA&labelColor=0D0D0D)](mailto:zanish.rohail11@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=zanishcodes7&label=PROFILE+VIEWS&color=8B1E3F&style=for-the-badge&labelColor=0D0D0D" alt="Profile views" />
+
 </div>
 
 ---
 
-### 🚀 About Me
-* 🌱 I’m currently pursuing my **BS in Data Science at NUML, Islamabad** (2026).
-* 💡 1 year of professional experience building enterprise solutions as an **Odoo / Python Developer at IT Legends**.
-* 🛠️ Passionate about automated ETL pipelines, statistical analysis, and clean, high-performance REST APIs.
+### 01 · About
+
+I'm a data science student who turns messy, real-world data into decisions. Before that, I spent about a year as an Odoo developer building ERP modules in Python and Flask. I'm now focused on statistics, machine learning, and NLP, and I'm looking for remote data science roles.
 
 ---
 
-### 🛠️ Tech Stack & Skills
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-8F3938?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+### 02 · Stack
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**Languages**
+
+Python · SQL<br>C++ · JavaScript<br>Dart (Flutter, learning)
+
+</td>
+<td align="center" width="33%">
+
+**Data & ML**
+
+Pandas · NumPy<br>Scikit-learn · TF-IDF<br>Statistics · NLP
+
+</td>
+<td align="center" width="33%">
+
+**Web & Tools**
+
+Flask · Odoo ORM<br>PostgreSQL · Git<br>Docker (learning)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📂 Featured Projects
+### 03 · Featured Work
 
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| **3-Tier Text Classification Engine** | Low-latency text classifier cascading Regex (&lt;2ms), TF-IDF ML, and LLM fallbacks. | Python, Flask, Scikit-Learn | [View Repo](https://github.com/zanishcodes7/Text-Classification-Engine) |
-| **NASA Asteroid Hazard Analysis** | Automated REST JSON ETL pipeline with SciPy Welch's t-tests and visualizations. | Python, pandas, SciPy, Chart.js | [View Repo](https://github.com/zanishcodes7/nasa-asteroid-hazard-analysis) |
-| **Movie Recommender System** | 5,000-title TMDB cosine similarity engine served via a low-latency Flask API. | Python, NumPy, Flask | [View Repo](https://github.com/zanishcodes7/movie-recommender-tfidf) |
+**[Text Classifier Engine](https://github.com/zanishcodes7/Text-Classifier-Engine)**
+A hybrid classifier that routes queries through regex rules, a TF-IDF and Logistic Regression model, and an LLM fallback, served through a Flask web UI.
+
+**[NASA Asteroid Hazard Analysis](https://github.com/zanishcodes7/nasa-asteroid-hazard-analysis)**
+Welch's t-test on near-Earth asteroid data, shown in an interactive Flask and Chart.js dashboard.
+
+**[Movie Recommender (TF-IDF)](https://github.com/zanishcodes7/movie-recommender-tfidf)**
+Content-based recommendations using TF-IDF and cosine similarity on the TMDB 5000 dataset.
 
 ---
 
-### 📊 GitHub Stats
+### 04 · Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="dist/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 05 · Currently
+
+- Building a five-project data science portfolio
+- Learning backend development and Docker
+- Studying DSA in C++
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zanishcodes7&show_icons=true&theme=radical&hide_border=true" alt="Zanish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanishcodes7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
----
+<sub>*"Numbers are only useful when they lead to a decision."*</sub>
 
-<div align="center">
-  <h3>📫 Connect With Me</h3>
-  <a href="https://linkedin.com/in/zanish-rohail" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:zanish.rohail11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
