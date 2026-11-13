@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:5C1028,100:8B1E3F&height=220&section=header&text=Zanish%20Rohail&fontSize=72&fontColor=F5E6EA&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%26%20Machine%20Learning&descAlignY=62&descSize=22&descColor=E8B4C0" width="100%" alt="Header" />
+<img src="header.png" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1200&color=E8B4C0&center=true&vCenter=true&width=700&lines=Numbers%2C+on+the+record.;Data+science%2C+one+project+at+a+time.;Building+since+2025." alt="Typing header" />
+<img src="avatar.png" width="150" alt="Zanish Rohail" />
 
-<sub>NUML · Rawalpindi, Pakistan · Open to remote roles</sub>
+<h2>Zanish Rohail</h2>
+
+<sub>Data Science Student · Rawalpindi, Pakistan · Open to remote roles</sub>
 
 <br/><br/>
 
